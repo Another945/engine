@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"inside_view",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"inside_view",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

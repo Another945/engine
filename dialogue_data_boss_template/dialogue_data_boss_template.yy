@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dialogue_data_boss_template",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dialogue_data_boss_template",
+  "parent":{
+    "name":"Data",
+    "path":"folders/Scripts/Text/Data.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

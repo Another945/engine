@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"lock_player",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"lock_player",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

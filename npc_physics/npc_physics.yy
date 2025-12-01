@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"npc_physics",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"npc_physics",
+  "parent":{
+    "name":"NPCs",
+    "path":"folders/Scripts/NPCs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

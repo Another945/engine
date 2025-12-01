@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"data_exists",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"data_exists",
+  "parent":{
+    "name":"GameData",
+    "path":"folders/Scripts/GameData.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

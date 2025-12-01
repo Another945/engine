@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"data_menu_load",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"data_menu_load",
+  "parent":{
+    "name":"DataMenu",
+    "path":"folders/Scripts/GameData/DataMenu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

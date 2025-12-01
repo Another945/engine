@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dialogue_get_text",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dialogue_get_text",
+  "parent":{
+    "name":"Text",
+    "path":"folders/Scripts/Text.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

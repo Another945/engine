@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"key_get_string",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"key_get_string",
+  "parent":{
+    "name":"OptionKeyConfig",
+    "path":"folders/Scripts/OptionKeyConfig.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

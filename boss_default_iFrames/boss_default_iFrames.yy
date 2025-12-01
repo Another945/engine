@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"boss_default_iFrames",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"boss_default_iFrames",
+  "parent":{
+    "name":"NPCs",
+    "path":"folders/Scripts/NPCs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
