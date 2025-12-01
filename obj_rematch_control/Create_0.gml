@@ -1,0 +1,2 @@
+global.rematchCleared = false;
+
