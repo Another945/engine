@@ -1,0 +1,5 @@
+camsetx[0] = 0;
+camsety[0] = y;
+
+camsetx[1] = room_width;
+camsety[1] = 768;

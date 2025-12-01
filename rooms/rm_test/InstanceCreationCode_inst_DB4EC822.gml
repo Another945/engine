@@ -1,0 +1,1 @@
+bossType = 0;
