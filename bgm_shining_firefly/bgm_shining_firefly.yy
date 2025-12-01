@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"bgm_shining_firefly",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":3,
+  "compressionQuality":6,
+  "conversionMode":0,
+  "duration":0.0,
+  "exportDir":"",
+  "name":"bgm_shining_firefly",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Sounds/BGM.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_shining_firefly",
+  "volume":1.0,
+}
