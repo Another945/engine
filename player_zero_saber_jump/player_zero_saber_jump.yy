@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_zero_saber_jump",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_zero_saber_jump",
+  "parent":{
+    "name":"ZeroMoves",
+    "path":"folders/Scripts/Player/ZeroMoves.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

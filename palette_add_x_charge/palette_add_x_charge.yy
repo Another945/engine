@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"palette_add_x_charge",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"palette_add_x_charge",
+  "parent":{
+    "name":"Palette",
+    "path":"folders/Scripts/Palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

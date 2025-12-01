@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_sprites_zero",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_sprites_zero",
+  "parent":{
+    "name":"Animations",
+    "path":"folders/Scripts/Player/Animations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

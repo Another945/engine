@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_can_climb",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_can_climb",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

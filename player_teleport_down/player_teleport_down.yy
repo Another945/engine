@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_teleport_down",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_teleport_down",
+  "parent":{
+    "name":"PlayerStates",
+    "path":"folders/Scripts/Player/PlayerStates.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

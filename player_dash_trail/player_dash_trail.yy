@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_dash_trail",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_dash_trail",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

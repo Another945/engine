@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"option_refresh_keys",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"option_refresh_keys",
+  "parent":{
+    "name":"OptionKeyConfig",
+    "path":"folders/Scripts/OptionKeyConfig.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
