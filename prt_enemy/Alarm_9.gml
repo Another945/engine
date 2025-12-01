@@ -1,0 +1,2 @@
+canGetHit = true;
+
